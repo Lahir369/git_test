@@ -1,0 +1,3 @@
+Hello I am Lahir 
+This is my first GitHub repo text 
+Learning from the ODIN PROJECT
